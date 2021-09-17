@@ -1,3 +1,6 @@
+
+
+
 stud ={'Godynov_Nikita':{'Схема':4, 'fizzbuzz':6, 'fizzbuzz+':6, 'prackt':10, 'string':0, 'dict':0, 'git1':6, 'praktick':10, 'modul':10},
  
 
